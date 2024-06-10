@@ -13,10 +13,10 @@ const perguntas = [
             ]
 },
 {
-    enunciado:"perguntas 2"
+    enunciado:"Qual melhor agente pro Matheus?"
       alternativas: [
-        "alternativa 1";
-        "alternativa 2";
+        "Reyna";
+        "Jett";
             ]
 },
 {
