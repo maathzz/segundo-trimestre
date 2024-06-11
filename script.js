@@ -8,12 +8,18 @@ const perguntas = [
   {
     enunciado:"Qual o melhor mapa na opinião do Matheus"
       alternativas: [
-        "Breeze";
-        "Sunset";
+  {
+ texto: "Breeze";
+afirmaçao: "afirmaçao";
+}
+{
+  texto: "Sunset";
+
+
             ]
 },
 {
-    enunciado:"Qual melhor agente pro Matheus?"
+    enunciado:"Qual o agente mais divertido de jogar?"
       alternativas: [
         "Reyna";
         "Jett";
@@ -27,10 +33,10 @@ const perguntas = [
             ]
 },
 {
-    enunciado:"perguntas 4"
+    enunciado:"Qual o main do Matheus?"
       alternativas: [
-        "alternativa 1";
-        "alternativa 2";
+        "Jett";
+        "Clove";
             ]
 },
 {
